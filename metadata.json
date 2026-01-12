@@ -1,0 +1,8 @@
+
+{
+  "name": "AI 이력서 사진 생성기",
+  "description": "평범한 사진을 전문 스튜디오에서 촬영한 고품질 이력서용 사진으로 변환해주는 AI 서비스입니다.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
